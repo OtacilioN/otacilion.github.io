@@ -15,3 +15,4 @@ Olá, eu sou Otacilio Maia e sou estudante do Cesar School do 6º período de Ci
 - Git
 - Chatbot
 - JavaScript
+- Markdown
